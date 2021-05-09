@@ -1,4 +1,5 @@
 
+//city class
 public class City {
 
     private double longitude;
