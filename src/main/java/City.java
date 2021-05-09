@@ -1,5 +1,5 @@
 
-//city class
+//city class added comment after merge
 public class City {
 
     private double longitude;
