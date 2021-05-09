@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+//Population Class
 public class Population {
 
     private ArrayList<City> cities;
